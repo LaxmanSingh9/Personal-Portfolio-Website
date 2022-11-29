@@ -1,0 +1,63 @@
+[
+  {
+    "name": "DSA Cracker",
+    "desc": "DSA Cracker is built using Spring MVC.It helps tracking DSA preparation, It is   Deployed On AWS EC2 instance.",
+    "image": "dsacracker",
+    "category": "Spring MVC",
+    "links": {
+      "view": "http://dsacracker.com/login",
+      "code": "https://github.com/LaxmanSingh9/DSA_CRACKER_SPRING_MVC_PROJECT"
+    }
+  },
+  {
+    "name": "CRM Project",
+    "desc": "CRM built using Spring MVC, Hibernate And JPA.It supports CRUD Opearation, Deployed on AWS Beanstalk.",
+    "image": "CRM",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/LaxmanSingh9/CRM--Spring-MVC-Project/tree/main/screenshots",
+      "code": "https://github.com/LaxmanSingh9/CRM--Spring-MVC-Project"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website built using Html, CSS and Javascript. Just Scroll Down. We're Here Only!",
+    "image": "portfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/LaxmanSingh9/Portfolio-Website"
+    }
+  },
+  {
+    "name": "Smart Contact Manager",
+    "desc": "It is built Spring Boot , Thymleaf , CSS And JS And MYSQL.Hibernate and JPA is used to communicate with database",
+    "image": "SCM",
+    "category": "Spring Boot APIs & MicroServices",
+    "links": {
+      "view": "https://github.com/LaxmanSingh9/SmartContactManager-Spring-Boot",
+      "code": "https://github.com/LaxmanSingh9/SmartContactManager-Spring-Boot"
+    }
+  },
+  {
+    "name": "Path Finding Visualizer",
+    "desc": "It is built using Python and pyGame . This uses Distras's Algorthim to find Shortest Path.",
+    "image": "PathFinding",
+    "category": "Python",
+    "links": {
+      "view": "https://github.com/LaxmanSingh9/shortest-path",
+      "code": "https://github.com/LaxmanSingh9/shortest-path"
+    }
+  },
+  {
+    "name": "News Web App",
+    "desc": "News Web App built using Django and Python . News Api fetchs all the headline news from the ap.",
+    "image": "newsapp",
+    "category": "Django",
+    "links": {
+      "view":"https://github.com/LaxmanSingh9/NewsWebApp--Django",
+      "code": "https://github.com/LaxmanSingh9/NewsWebApp--Django"
+    }
+  }
+  
+]
